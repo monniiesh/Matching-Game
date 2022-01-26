@@ -2,16 +2,8 @@
 //////////////// FILE HEADER (INCLUDE IN EVERY FILE) //////////////////////////
 //
 // Title: P02-Matching-Game
-// Course: CS 300 Spring 2021
 //
-// Author: Monniiesh Velmurugan
-// Email: mvelmurugan@wisc.edu
-// Lecturer: Mouna Kacem
-//
-///////////////////////// ALWAYS CREDIT OUTSIDE HELP //////////////////////////
-//
-// Persons: (identify each by name and describe how they helped)
-// Online Sources: (identify each by URL and describe how it helped)
+// Author: Monniiesh Velmurugan, Mouna Kacem
 //
 ///////////////////////////////////////////////////////////////////////////////
 import java.io.File;
